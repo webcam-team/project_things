@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.3.0",
     "https": "^1.0.0",
     "jquery": "^3.5.1",
     "semantic-ui-css": "^2.4.1",
